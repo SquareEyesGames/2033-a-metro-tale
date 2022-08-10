@@ -1,0 +1,7 @@
+C:\GameDev\Programming\My Projects\Text Adventures\2033 A Metro Tale\2033 A Metro Tale\bin\Debug\2033 A Metro Tale.exe.config
+C:\GameDev\Programming\My Projects\Text Adventures\2033 A Metro Tale\2033 A Metro Tale\bin\Debug\2033 A Metro Tale.exe
+C:\GameDev\Programming\My Projects\Text Adventures\2033 A Metro Tale\2033 A Metro Tale\bin\Debug\2033 A Metro Tale.pdb
+C:\GameDev\Programming\My Projects\Text Adventures\2033 A Metro Tale\2033 A Metro Tale\obj\Debug\2033 A Metro Tale.csproj.AssemblyReference.cache
+C:\GameDev\Programming\My Projects\Text Adventures\2033 A Metro Tale\2033 A Metro Tale\obj\Debug\2033 A Metro Tale.csproj.CoreCompileInputs.cache
+C:\GameDev\Programming\My Projects\Text Adventures\2033 A Metro Tale\2033 A Metro Tale\obj\Debug\2033 A Metro Tale.exe
+C:\GameDev\Programming\My Projects\Text Adventures\2033 A Metro Tale\2033 A Metro Tale\obj\Debug\2033 A Metro Tale.pdb
